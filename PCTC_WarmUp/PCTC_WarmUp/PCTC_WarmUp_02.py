@@ -1,6 +1,0 @@
-age = int(input())
-symbol = input()
-length = len(str(age))
-print(symbol*(length+2))
-print(symbol + str(age) + symbol)
-print(symbol*(length+2))
